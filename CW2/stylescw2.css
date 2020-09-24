@@ -1,0 +1,59 @@
+/*Exercise 3*/
+h1.three {
+    color: red;
+    margin-left:2cm;
+}
+h2.three {
+    color:red;
+    margin-left: 4cm;
+}
+p.three {
+    text-indent: 2cm;
+    color: darkred;
+    margin-left: 6cm;
+}
+/*Exercise 5*/
+.artist {
+    font-size: 14pt;
+    font-family: arial;
+    font-weight: bold;
+    color: moccasin;
+}
+.songtitle {
+    font-size: 14pt;
+    font-family: arial;
+    font-weight: normal;
+    color: khaki;
+}
+.album {
+    font-size: 12pt;
+    font-family: arial;
+    font-weight: normal;
+    color: khaki;
+}
+.year {
+    font-size: 12pt;
+    font-family: arial;
+    font-weight: bold;
+    color: ivory;
+}
+span {
+    background-color: chocolate;
+}
+.verse {
+    font-size: 14pt;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    color: gold;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+.chorus {
+    font-size: 14pt;
+    font-family: 'Trebuchet MS';
+    font-size: bold;
+    font-style: italic;
+    color: gold;
+    margin-left: 4cm;
+    margin-right: 4cm;
+}
